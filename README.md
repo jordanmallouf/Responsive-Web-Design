@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <title>README.md</title>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8" />
     </head>
     <body>
       <p>Hello!</p>
