@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
+  <title>README.md</title>
+  <meta charset="UTF-8">
   <head>
-    <title>README.md</title>
-    <meta charset="UTF-8">
     <body>
       <p>Hello!</p>
         <p>My name is Jordan, and I am a student that has begun self-teaching programming languages.</p>
